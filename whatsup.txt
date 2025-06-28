@@ -9,3 +9,5 @@ Authour : Justin
 3. Last Seen code
 
 4. Attachments (Image, Audio, Video) code
+
+5. Hiding the Last Seen

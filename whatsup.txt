@@ -11,3 +11,7 @@ Authour : Justin
 4. Attachments (Image, Audio, Video) code
 
 5. Hiding the Last Seen
+
+6. Add Audio file 
+
+7. Ass Video file
